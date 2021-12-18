@@ -1,11 +1,12 @@
 # Competitions
 
 ## [Designing a promo strategy for a company](https://github.com/SergeiDm/Competitions/tree/main/Promo%20strategy)
-<figure>
+<p align = "left">
   <img src="https://github.com/SergeiDm/Competitions/blob/main/illustrations/russia_regions.jpg" width="300" height="225" border="10" />
-<figcaption><b>sadfs</b>
-</figcaption>
-</figure>
+</p>
+<p align = "left">
+  Photo by <a href="https://unsplash.com/@ilyuza?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ilyuza Mingazova</a> on <a href="https://unsplash.com/s/photos/map-russia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</p>
 
 
 **Competition platform**: https://www.datacamp.com/  
