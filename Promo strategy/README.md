@@ -1,4 +1,4 @@
-### Competition platform
+### Platform
 https://www.datacamp.com/  
 
 ### Background
